@@ -8,11 +8,6 @@
   </url>
   
   <url>
-    <loc>https://hessianguo.github.io/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hessianguo.github.io/authors/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -24,6 +19,11 @@
   
   <url>
     <loc>https://hessianguo.github.io/author/h.-guo/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hessianguo.github.io/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -45,6 +45,16 @@
   <url>
     <loc>https://hessianguo.github.io/publication/mr-4071824/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hessianguo.github.io/talk/</loc>
+    <lastmod>2019-12-04T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hessianguo.github.io/talk/austms2019/</loc>
+    <lastmod>2019-12-04T00:00:00+11:00</lastmod>
   </url>
   
   <url>
@@ -187,10 +197,6 @@
   
   <url>
     <loc>https://hessianguo.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hessianguo.github.io/talk/</loc>
   </url>
   
   <url>

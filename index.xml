@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Hailong&#39;s Homepage</title>
     <link>https://hessianguo.github.io/</link>
       <atom:link href="https://hessianguo.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hailong Guo © 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <description>Hailong&#39;s Homepage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hessianguo.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Academic</title>
+      <title>Hailong&#39;s Homepage</title>
       <link>https://hessianguo.github.io/</link>
     </image>
     
@@ -25,6 +25,14 @@
       <link>https://hessianguo.github.io/publication/mr-4071824/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://hessianguo.github.io/publication/mr-4071824/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unfitted Nitsche’s method for computing edge modes in photonic graphene</title>
+      <link>https://hessianguo.github.io/talk/austms2019/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +1100</pubDate>
+      <guid>https://hessianguo.github.io/talk/austms2019/</guid>
       <description></description>
     </item>
     
