@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H. Chen | Academic</title>
+    <link>https://hessianguo.github.io/author/h.-chen/</link>
+      <atom:link href="https://hessianguo.github.io/author/h.-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>H. Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hailong Guo © 2020</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hessianguo.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>H. Chen</title>
+      <link>https://hessianguo.github.io/author/h.-chen/</link>
+    </image>
+    
+    <item>
+      <title>A $C^0$ linear finite element method for two fourth-order eigenvalue problems</title>
+      <link>https://hessianguo.github.io/publication/mr-3712188/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://hessianguo.github.io/publication/mr-3712188/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

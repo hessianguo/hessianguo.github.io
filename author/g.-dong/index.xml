@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Dong | Academic</title>
+    <link>https://hessianguo.github.io/author/g.-dong/</link>
+      <atom:link href="https://hessianguo.github.io/author/g.-dong/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Dong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Hailong Guo © 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hessianguo.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>G. Dong</title>
+      <link>https://hessianguo.github.io/author/g.-dong/</link>
+    </image>
+    
+    <item>
+      <title>Parametric polynomial preserving recovery on manifolds</title>
+      <link>https://hessianguo.github.io/publication/mr-4117849/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hessianguo.github.io/publication/mr-4117849/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
