@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hessianguo.github.io/</loc>
+    <lastmod>2020-01-20T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hessianguo.github.io/talk/csrc2020/</loc>
+    <lastmod>2020-01-20T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hessianguo.github.io/talk/</loc>
+    <lastmod>2020-01-20T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hessianguo.github.io/publication-type/2/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -19,11 +34,6 @@
   
   <url>
     <loc>https://hessianguo.github.io/author/h.-guo/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hessianguo.github.io/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -45,11 +55,6 @@
   <url>
     <loc>https://hessianguo.github.io/publication/mr-4071824/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hessianguo.github.io/talk/</loc>
-    <lastmod>2019-12-04T00:00:00+11:00</lastmod>
   </url>
   
   <url>
