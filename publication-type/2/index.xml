@@ -5,12 +5,20 @@
     <link>https://hessianguo.github.io/publication-type/2/</link>
       <atom:link href="https://hessianguo.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Hailong Guo © 2021</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Hailong Guo © 2022</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hessianguo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://hessianguo.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Optimal Maximum Norm Estimates for Virtual Element Methods</title>
+      <link>https://hessianguo.github.io/publication/mr-4431965/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hessianguo.github.io/publication/mr-4431965/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Unfitted Nitsche&#39;s method for computing band structures of phononic crystals with periodic inclusions</title>
